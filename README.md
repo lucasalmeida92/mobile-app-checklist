@@ -1,4 +1,4 @@
-# mobile-app-checklist
+# Mobile App Checklist
 
 > **Purpose:**
 
