@@ -7,8 +7,6 @@
 -----
 
 ###Topics
------
-
 
 * Before Development
 * Skeleton
